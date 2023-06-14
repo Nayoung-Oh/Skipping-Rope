@@ -13,4 +13,4 @@ What you need to prepare
 - Some supporters, bolts, and nuts (recommend to use nylon nut for connecting the rope handle)
 
 Assemble the new handle and Arduino
-![assembly](https://github.com/Nayoung-Oh/Skipping-Rope/tree/main/image/assembly.jpg?raw=true)
+![assembly](https://github.com/Nayoung-Oh/Skipping-Rope/blob/e91b26668ec77ed5c38910590827e0871f93ce0b/image/assembly.jpg)
